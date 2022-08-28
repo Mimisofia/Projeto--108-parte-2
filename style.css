@@ -1,0 +1,42 @@
+body
+{
+  font-family: 'Special Elite', cursive;
+  background-color: rgb(250, 224, 153);
+}
+
+.header_div
+{
+  background-color: rgb(120, 102, 122);
+  color: rgb(191, 215, 240);
+}
+
+.header_div p 
+{
+  font-family: 'DynaPuff', cursive;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button
+{
+  font-family: 'ITC Benguiat';
+  margin-top: 30px;
+  width: 130px;
+  font-weight: bolder;
+  letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+  position: fixed;
+  color: rgb(173, 255, 210);
+  bottom: 0;
+  width: 100%;
+  font-size: 18px;
+  background-color: rgb(18, 67, 133);
+  line-height: 3;
+  text-align: center ;
+  text-shadow: 5px 5px 5px rgb(151,149,149);
+}
